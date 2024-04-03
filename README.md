@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,4,6,8,10,12,14,16,20,30&text=Not%20Sad%20Actually&fontSize=75&animation=twinkling)
 # Hello ![](https://raw.githubusercontent.com/sadbattery/sadbattery/5228f871f782307882ffc578cd3ba092f8ed3771/-waving.gif)My name is [Ali Hamzah](https://linkedin.com/in/ali-hamzah/ "LINKEDIN PROFILE")
-------------------------------------------
 # CyberSecurity Enthusiast | Pentester | CTF
+###### *I'm a ~~UI/UX Designer~~ CyberSecurity Enthusiast and Web App Penetration Tester, and Yeahh I love capturing flags! You can often find me playing levels on `Hack This Site`, `HackTheBox`, & `TryHackMe` and exploring new challenges in the cybersecurity world.*
 ------------------------------------------
 
  *   🌍  I'm based in Pakistan
