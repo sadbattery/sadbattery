@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Not%20Sad%20Actually&fontSize=75&animation=twinkling)
 # Hello ![](https://raw.githubusercontent.com/sadbattery/sadbattery/5228f871f782307882ffc578cd3ba092f8ed3771/-waving.gif)My name is [Ali Hamzah](https://linkedin.com/in/ali-hamzah/ "LINKEDIN PROFILE")
 ------------------------------------------
 # CyberSecurity Enthusiast | Pentester | CTF
