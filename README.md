@@ -29,7 +29,37 @@
 
 <br/>  
 
+## Github Stats  
+| Stats       | Streak           | 
+| ------------- |:-------------:| 
+| <a href="http://www.github.com/sadbattery"><img src="https://github-readme-stats.vercel.app/api?username=sadbattery&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sadbattery's GitHub stats" /></a>      | <a href="http://www.github.com/sadbattery"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadbattery&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sadbattery&&style=flat-square" align="center" />
+</div> 
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/#" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br/>
+
+
+
+
+
+
+
 <!--
+![](https://raw.githubusercontent.com/leereilly/leereilly/master/gitris.gif)
+
+
 ![Background Image](https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg)
 
 # Hello, I'm [Your Name]! 👋
