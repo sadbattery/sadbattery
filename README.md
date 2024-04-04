@@ -51,7 +51,8 @@
 <br/>
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sadbattery/sadbattery/e39ee7bff82ed08ddf2f353066e65c909a11a56b/github-contribution-grid-snake.svg)
+
 
 
 
