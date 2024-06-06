@@ -1,12 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,4,6,8,10,12,14,16,20,30&text=Not%20Sad%20Actually&fontSize=75&animation=twinkling)
+
 # Hello ![](https://raw.githubusercontent.com/sadbattery/sadbattery/5228f871f782307882ffc578cd3ba092f8ed3771/-waving.gif)My name is [Ali Hamzah](https://linkedin.com/in/ali-hamzah/ "LINKEDIN PROFILE")
+
 # CyberSecurity Enthusiast | Pentester | CTF Player
-###### *I'm a ~~UI/UX Designer~~ CyberSecurity Enthusiast and Web App Penetration Tester, and Yeahh I love capturing the flags(CTFs)! You can often find me playing levels on `Hack This Site`, `HackTheBox`, & `TryHackMe` and exploring new challenges in the cybersecurity world.*
-------------------------------------------
 
- *   🌍  I'm based in Pakistan
+###### _I'm a ~~UI/UX Designer~~ CyberSecurity Enthusiast and Web App Penetration Tester, and Yeahh I love capturing the flags(CTFs)! You can often find me playing levels on `Hack This Site`, `HackTheBox`, & `TryHackMe` and exploring new challenges in the cybersecurity world._
 
-## Languages and Tools  
+---
+
+-   🌍 I'm based in Pakistan
+
+## Languages and Tools
+
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>  
@@ -25,21 +30,21 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="40" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="40" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="40" /></a>  
-</div>  
+</div>
 
-<br/>  
+<br/>
 
-## Github Stats  
-| Stats       | Streak           | 
-| ------------- |:-------------:| 
-| <a href="http://www.github.com/sadbattery"><img src="https://github-readme-stats.vercel.app/api?username=sadbattery&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sadbattery's GitHub stats" /></a>      | <a href="http://www.github.com/sadbattery"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadbattery&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## Github Stats
 
+| Stats                                                                                                                                                                                                                                                                                                        |                                                                                                                                               Streak                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <a href="http://www.github.com/sadbattery"><img src="https://github-readme-stats.vercel.app/api?username=sadbattery&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sadbattery's GitHub stats" /></a> | <a href="http://www.github.com/sadbattery"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadbattery&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> |
 
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sadbattery&&style=flat-square" align="center" />
-</div> 
+</div>
 
 <div align="center">
             <a href="https://github.com/sadbattery/" target="_blank" style="display: inline-block;">
@@ -50,14 +55,9 @@
             </a></div>
 <br/>
 
-
 ![Snake animation](https://raw.githubusercontent.com/sadbattery/sadbattery/e39ee7bff82ed08ddf2f353066e65c909a11a56b/github-contribution-grid-snake.svg)
 
-
-
-
-
-
+<!--hello-->
 <!--
 ![](https://raw.githubusercontent.com/leereilly/leereilly/master/gitris.gif)
 
