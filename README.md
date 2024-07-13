@@ -4,7 +4,7 @@
 
 # CyberSecurity Enthusiast | Pentester | CTF Player
 
-###### _I'm a ~~UI/UX Designer~~ CyberSecurity Enthusiast and Web App Penetration Tester, and Yeahh I love capturing the flags(CTFs)! You can often find me playing levels on `Hack This Site`, `HackTheBox`, & `TryHackMe` and exploring new challenges in the cybersecurity world._
+###### _I'm a ~~UI/UX Designer~~ Security Researcher and Web App Penetration Tester, and Yeahh I love capturing the flags(CTFs)! You can often find me playing levels on `Hack This Site`, `HackTheBox`, & `TryHackMe` and exploring new challenges in the cybersecurity world._
 
 ---
 
