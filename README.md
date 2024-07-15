@@ -2,7 +2,7 @@
 
 # Hello ![](https://raw.githubusercontent.com/sadbattery/sadbattery/5228f871f782307882ffc578cd3ba092f8ed3771/-waving.gif)My name is [Ali Hamzah](https://linkedin.com/in/ali-hamzah/ "LINKEDIN PROFILE")
 
-# CyberSecurity Enthusiast | Pentester | CTF Player
+# Security Researcher | CyberSecurity Enthusiast | Pentester | CTF Player
 
 ###### _I'm a ~~UI/UX Designer~~ Security Researcher and Web App Penetration Tester, and Yeahh I love capturing the flags(CTFs)! You can often find me playing levels on `Hack This Site`, `HackTheBox`, & `TryHackMe` and exploring new challenges in the cybersecurity world._
 
