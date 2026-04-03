@@ -55,6 +55,8 @@
             </a></div>
 <br/>
 
+![snake gif](https://github.com/sadbattery/sadbattery/blob/output/github-snake-dark.svg)
+
 ![Snake animation](https://raw.githubusercontent.com/sadbattery/sadbattery/e39ee7bff82ed08ddf2f353066e65c909a11a56b/github-contribution-grid-snake.svg)
 
 <!--hello-->
